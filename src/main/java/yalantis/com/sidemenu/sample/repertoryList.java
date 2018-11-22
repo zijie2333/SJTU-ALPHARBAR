@@ -1,7 +1,7 @@
 package yalantis.com.sidemenu.sample;
 
 /**
- * Created by 曾艺涵 on 2018/4/25.
+ * Created  on 2018/4/25.
  */
 
 public class repertoryList {
