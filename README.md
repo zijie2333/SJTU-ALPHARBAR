@@ -28,6 +28,8 @@ By entering **manager mode**, the system manager can look at cocktail making his
 
 
 
-The **final model** is shown below and  the realization details are summarized in **Alphabar.pdf**
+The **final model** is shown below 
 
 ![final_model](https://github.com/zijie2333/SJTU-AlpharBar/raw/master/img/final.png)
+
+The realization details are summarized in **Alphabar.pdf**. The main after-end codes are in the folder **sample**. 
