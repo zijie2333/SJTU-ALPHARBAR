@@ -39,3 +39,6 @@ The main after-end codes are in the folder **sample**.
 
 
 The main front-end codes are in the folder **src/main/res/layout**.
+
+
+Welcome to check our demo at https://www.bilibili.com/video/av36691792
